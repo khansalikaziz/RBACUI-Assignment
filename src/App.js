@@ -75,7 +75,7 @@ const UserManagement = () => {
           onChange={(e) => setUsername(e.target.value)}
         />
         <select value={role} onChange={(e) => setRole(e.target.value)}>
-          <option value="">Select Role</option>
+          <option value="">Select Role (Add from below option)</option>
           {roles.map((r) => (
             <option key={r.id} value={r.name}>
               {r.name}

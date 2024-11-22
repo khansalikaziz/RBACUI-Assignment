@@ -83,14 +83,11 @@ rbac-system/
 - Add users with dynamically assigned roles.
 - View and delete users in a sleek, responsive list.
 
-<img src="https://via.placeholder.com/800x450?text=User+Management+UI" alt="User Management Screenshot" />
 
 ---
 
 ### **Role Management**
 - Create, view, and delete roles in a clean UI.
-
-<img src="https://via.placeholder.com/800x450?text=Role+Management+UI" alt="Role Management Screenshot" />
 
 ---
 
