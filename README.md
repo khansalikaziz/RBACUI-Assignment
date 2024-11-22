@@ -85,21 +85,3 @@ rbac-system/
 ### **Role Management**
 - Create, view, and delete roles in a clean UI.
 
----
-
-## 🌈 Customization
-
-Feel free to customize the UI styles in `App.css` and extend functionality based on your requirements.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! 🎉  
-1. Fork the repository.  
-2. Create a feature branch (`git checkout -b feature-name`).  
-3. Commit your changes (`git commit -m 'Add feature'`).  
-4. Push to the branch (`git push origin feature-name`).  
-5. Open a Pull Request.
-
----
