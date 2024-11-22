@@ -20,12 +20,6 @@ A modern and interactive **Role-Based Access Control (RBAC)** application built 
 
 ---
 
-## 🎥 Demo
-
-<img src="https://via.placeholder.com/800x450?text=Demo+Coming+Soon" alt="Project Demo" />
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js  
@@ -57,6 +51,8 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+Live Url -: https://fluffy-marshmallow-ca23b4.netlify.app/
 
 ---
 
