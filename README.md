@@ -1,70 +1,117 @@
-# Getting Started with Create React App
+# 🛡️ Role-Based Access Control (RBAC) System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and interactive **Role-Based Access Control (RBAC)** application built with **React**, **Redux**, and **CSS** for managing users and roles efficiently. 🚀
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+- **Dynamic User Management**:  
+  Add, view, and delete users with assigned roles.
+  
+- **Role Management**:  
+  Easily create and manage roles dynamically.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Modern Design**:  
+  Clean, responsive UI with interactive elements and hover effects.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Centralized State**:  
+  Powered by **Redux** for seamless state management.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎥 Demo
 
-### `npm run build`
+<img src="https://via.placeholder.com/800x450?text=Demo+Coming+Soon" alt="Project Demo" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend**: React.js  
+- **State Management**: Redux  
+- **Styling**: CSS  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 1️⃣ Prerequisites
+Ensure you have the following installed:
+- **Node.js** (v14+)
+- **npm** or **yarn**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 2️⃣ Installation
+Clone the repository and install dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/khansalikaziz/RBACUI-Assignment
+cd assignment
+npm install
+```
 
-## Learn More
+### 3️⃣ Running the Application
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📂 Project Structure
 
-### Analyzing the Bundle Size
+```
+rbac-system/
+├── src/
+│   ├── App.js          # Main Application Component
+│   ├── App.css         # Styling
+│   ├── index.js        # Entry Point
+│   └── redux/          # Redux Setup
+├── public/
+│   └── index.html      # HTML Template
+├── package.json        # Dependencies and Scripts
+└── README.md           # Project Documentation
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🎨 UI Design
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### **User Management**
+- Add users with dynamically assigned roles.
+- View and delete users in a sleek, responsive list.
 
-### Advanced Configuration
+<img src="https://via.placeholder.com/800x450?text=User+Management+UI" alt="User Management Screenshot" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+### **Role Management**
+- Create, view, and delete roles in a clean UI.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<img src="https://via.placeholder.com/800x450?text=Role+Management+UI" alt="Role Management Screenshot" />
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🌈 Customization
+
+Feel free to customize the UI styles in `App.css` and extend functionality based on your requirements.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 🎉  
+1. Fork the repository.  
+2. Create a feature branch (`git checkout -b feature-name`).  
+3. Commit your changes (`git commit -m 'Add feature'`).  
+4. Push to the branch (`git push origin feature-name`).  
+5. Open a Pull Request.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use and modify it for your own projects.  
